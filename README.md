@@ -34,9 +34,9 @@ Salespersons file consists of the information about salespersons and columns are
  6. A source depot from which a salesperson starts**
 
 
-*(Note in these benchmarks, each salesperson has the same velocity).
+*(Note that in these benchmarks, each salesperson has the same velocity).
 
-**(Note in these benchmarks, each salesperson starts from a different depot).
+**(Note that in these benchmarks, each salesperson starts from a different depot).
 
 ### Best known solutions
 |Instance| Cost  |

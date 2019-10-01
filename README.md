@@ -35,6 +35,7 @@ Salespersons file consists of the information about salespersons and columns are
 
 
 *(Note in these benchmarks, each salesperson has the same velocity).
+
 **(Note in these benchmarks, each salesperson starts from a different depot).
 
 ### Best known solutions

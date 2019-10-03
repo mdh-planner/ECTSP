@@ -38,6 +38,8 @@ Salespersons file consists of the information about salespersons and columns are
 
 **(Note that in these benchmarks, each salesperson starts from a different depot).
 
+Instances range from 10 to 500 cities, and from 1 to 10 salespersons.
+
 ### Best known solutions
 |Instance| Cost  |
 |--|--|

@@ -55,7 +55,8 @@ Instances range from 10 to 500 cities, and from 1 to 10 salespersons.
 |9|222007|
 
 *(Known Optimal Solution)
-**(The exact cost may vary a bit depending on the decimal rounding, error should not be larger than +-1)
+
+**(The exact cost may vary a bit depending on the decimal rounding, error should not be larger than +-1. I will try to provide the solution (tour) as well to avoid this issue.)
 
 ## Objective Function
 

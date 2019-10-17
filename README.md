@@ -45,7 +45,7 @@ Instances range from 10 to 500 cities, and from 1 to 10 salespersons.
 |--|--|
 | 0 |  79094.9* |
 |1|98128.7*|
-| 2 | 91617 |
+| 2 | 91617.3 |
 |3|135250|
 | 4 | 110024 |
 |5|133621|
@@ -55,6 +55,7 @@ Instances range from 10 to 500 cities, and from 1 to 10 salespersons.
 |9|222007|
 
 *(Known Optimal Solution)
+**(The exact cost may vary a bit depending on the decimal rounding, error should not be larger than +-1)
 
 ## Objective Function
 

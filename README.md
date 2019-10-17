@@ -45,7 +45,7 @@ Instances range from 10 to 500 cities, and from 1 to 10 salespersons.
 |--|--|
 | 0 |  79094.9* |
 |1|98128.7*|
-| 2 | 93944.3 |
+| 2 | 91617 |
 |3|135250|
 | 4 | 110024 |
 |5|133621|

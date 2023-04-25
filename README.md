@@ -70,5 +70,3 @@ and
 
 ![minSum](https://github.com/mdh-planner/ECTSP/blob/master/eq3.png)
 
-# Contact
-If you have a question, suggestion or you have a problem to report, please contact me via Email: branko.miloradovic@mdh.se
